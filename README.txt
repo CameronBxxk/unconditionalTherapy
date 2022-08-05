@@ -23,7 +23,7 @@ Thank you!
 How to use:
 
 1. Download and store the .exe on your PC
-2. Extract to whereever youd like
+2. Extract to wherever youd like
 3. Double click to open
 4. Enter your name (this will be referenced in questions and responses)
 5. Answer a x/10 rating
