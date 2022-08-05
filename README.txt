@@ -1,5 +1,3 @@
-unconditionalTherapy (beta)
-
 Do you find that it is hard to open a notebook, stare at a big blank white page and try to record your thoughts with no motivation or idea with what to start with? I do. If you feel the same then this application was made with you in mind. Therapy is expensive and time consuming. Not to mention it can be hard to look someone in the eyes and talk about yourself or your issues! unconditionalTherapy is just an application; tell it whatever you like- no judgement- no expectation- no risk.
 
 Sometimes all you need is to get it out... unconditonalTherapy will listen.
