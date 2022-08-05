@@ -23,8 +23,10 @@ Thank you!
 How to use:
 
 1. Download and store the .exe on your PC
-2. Double click to open
-3. Enter your name (this will be referenced in questions and responses)
-4. Answer a x/10 rating
-5. Answer questions, it is important to answer either YES or NO to yes/no type of questions
-6. A dated .txt will be generated with your responses. Once the .exe is closed- store the .txt where you like
+2. Extract to whereever youd like
+3. Double click to open
+4. Enter your name (this will be referenced in questions and responses)
+5. Answer a x/10 rating
+6. Answer questions, it is important to answer either YES or NO to yes/no type of questions
+7. A dated .txt will be generated with your responses. Once the .exe is closed- store the .txt where you like
+8. Feedback? 
