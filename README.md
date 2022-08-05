@@ -11,11 +11,11 @@ unconditionalTherapy's questions and responses are personalized to YOUR NAME and
 1. What is your name?
 2. How would you say you're feeling today? x/10
 3. Are you feeling suicidal?
-  3.1. If answered "yes, yeah, yup" then unconditionalTherapy will ask you to elaborate.
-  3.2. If answered anything other than yes- a motivational message pops up :)
+3.1. If answered "yes, yeah, yup" then unconditionalTherapy will ask you to elaborate.
+3.2. If answered anything other than yes- a motivational message pops up :)
 4. Are you feeling anxious or panicked at all?
-  4.1. If answered "yes, yeah, yup" then unconditionalTherapy will ask you to elaborate.
-  4.2. If answered anything other than yes- a motivational message pops up :)
+4.1  4.1. If answered "yes, yeah, yup" then unconditionalTherapy will ask you to elaborate.
+4.2. If answered anything other than yes- a motivational message pops up :)
 5. Time to rant!! rant!! rant!! Anything else on your mind?
 
 Open feedback is welcomed and appreciated!
