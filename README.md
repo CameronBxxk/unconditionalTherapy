@@ -31,4 +31,7 @@ How to use:
 6. Answer questions, it is important to answer either YES or NO to yes/no type of questions
 7. A dated .txt will be generated with your responses. Once the .exe is closed- store the .txt where you like
 8. ^Esc::ExitApp (ctrl+esc to exit)
-9. Feedback?
+
+Open feedback is welcomed and appreciated!
+unconditionalTherapy is an ongoing project. Changes will be made over time. 
+Thank you!
