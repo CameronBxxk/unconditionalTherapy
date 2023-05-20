@@ -1,37 +1,24 @@
-Do you find that it is hard to open a notebook, stare at a big blank white page and try to record your thoughts with no motivation or idea with what to start with? I do. If you feel the same then this application was made with you in mind. Therapy is expensive and time consuming. Not to mention it can be hard to look someone in the eyes and talk about yourself or your issues! unconditionalTherapy is just an application; tell it whatever you like- no judgement- no expectation- no risk.
+Introducing unconditionalTherapy: Your Personal Journaling Companion for Mental Health
 
-Sometimes all you need is to get it out... unconditonalTherapy will listen.
+Struggling to start journaling? Get motivated with unconditionalTherapy! Discover an easy way to express your thoughts and emotions without any judgment or expectations. Say goodbye to expensive therapy sessions and connect with unconditionalTherapy, your virtual support system.
 
-unconditionalTherapy is an .exe meant to help with journaling as it keeps track of all your responses and mental health history in a "MMddyy" dated .txt file that will be generated wherever the application is stored on your PC.
+unconditionalTherapy is a user-friendly .exe application designed to help you journal effectively. It automatically tracks your responses and mental health history in a dated .txt file. Download and store the unconditionalTherapy .exe on your PC to start your mental health journey.
 
-unconditionalTherapy's questions and responses are personalized to YOUR NAME and it will ask you the following questions (these questions and responses are paraphrased)
+Personalized to your needs, unconditionalTherapy begins by asking for your name. From there, it guides you through a series of thought-provoking questions tailored to your unique experiences. If you're not feeling suicidal or anxious, it provides uplifting and motivational messages.
 
-1. What is your name?
-2. How would you say you're feeling today? x/10
-3. Are you feeling suicidal?
-3.1. If answered "yes, yeah, yup" then unconditionalTherapy will ask you to elaborate.
-3.2. If answered anything other than yes- a motivational message pops up :)
-4. Are you feeling anxious or panicked at all?
-4.1  If answered "yes, yeah, yup" then unconditionalTherapy will ask you to elaborate.
-4.2. If answered anything other than yes- a motivational message pops up :)
-5. Time to rant!! rant!! rant!! Anything else on your mind?
+Need to let it all out? unconditionalTherapy is your listening ear. Take the opportunity to rant and share any thoughts on your mind.
 
-Open feedback is welcomed and appreciated!
-unconditionalTherapy is an ongoing project. Changes will be made over time.
-Thank you!
+We value your feedback! As an ongoing project, unconditionalTherapy aims to continuously improve. We appreciate your support in making this journaling tool even better for you and others seeking mental well-being.
 
-How to use:
+Getting started is easy:
 
-1. Download and store the .exe on your PC
-2. Extract to wherever youd like
-3. Double click to open
-	!! The first time you run, windows will ask if you're sure- it is 100% safe to continue !!
-4. Enter your name (this will be referenced in questions and responses)
-5. Answer a x/10 rating
-6. Answer questions, it is important to answer either YES or NO to yes/no type of questions
-7. A dated .txt will be generated with your responses. Once the .exe is closed- store the .txt where you like
-8. ^Esc::ExitApp (ctrl+esc to exit)
+    Download and store the unconditionalTherapy .exe on your PC.
+    Extract it to your preferred location.
+    Double click to open the application. Rest assured, it is 100% safe to run.
+    Enter your name to personalize your experience.
+    Rate your current feelings on a scale of x/10.
+    Respond to the questions with a simple YES or NO.
+    Your responses will be automatically saved in a dated .txt file. Remember to store it before closing the application.
+    Press ^Esc (ctrl+esc) to exit when you're finished.
 
-Open feedback is welcomed and appreciated!
-unconditionalTherapy is an ongoing project. Changes will be made over time. 
-Thank you!
+We appreciate your support in making unconditionalTherapy an effective tool for your mental well-being. Start your journey today and take control of your emotions with unconditionalTherapy.
